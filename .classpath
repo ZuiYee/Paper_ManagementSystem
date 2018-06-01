@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ZuiYee/eclipse-workspace/Paper_ManagementSystem/UKP72VS4/mongodb-driver-3.3.0[1].jar"/>
+	<classpathentry kind="lib" path="C:/Users/ZuiYee/eclipse-workspace/Paper_ManagementSystem/JE30PXGQ/bson-3.3.0[1].jar"/>
+	<classpathentry kind="lib" path="C:/Users/ZuiYee/eclipse-workspace/Paper_ManagementSystem/8RGE31B1/mongodb-driver-core-3.3.0[1].jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
